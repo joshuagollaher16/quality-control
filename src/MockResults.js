@@ -1,4 +1,3 @@
-import results from './results.txt'
 import {useEffect, useState} from "react";
 
 //Mock results of the printing
